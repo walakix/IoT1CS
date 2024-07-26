@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Walaki\\source\\repos\\IoT1CS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F31EC3-6315-4D14-AB18-CA63600A5FA5}|IoT1CS\\IoT1CS.csproj|c:\\users\\walaki\\source\\repos\\iot1cs\\iot1cs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F31EC3-6315-4D14-AB18-CA63600A5FA5}|IoT1CS\\IoT1CS.csproj|solutionrelative:iot1cs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F31EC3-6315-4D14-AB18-CA63600A5FA5}|IoT1CS\\IoT1CS.csproj|C:\\Users\\Walaki\\source\\repos\\IoT1CS\\iot1cs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3F31EC3-6315-4D14-AB18-CA63600A5FA5}|IoT1CS\\IoT1CS.csproj|solutionrelative:iot1cs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Walaki\\source\\repos\\IoT1CS\\IoT1CS\\Form1.cs",
+              "RelativeDocumentMoniker": "IoT1CS\\Form1.cs",
+              "ToolTip": "C:\\Users\\Walaki\\source\\repos\\IoT1CS\\IoT1CS\\Form1.cs",
+              "RelativeToolTip": "IoT1CS\\Form1.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAiwL0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:24:38.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Walaki\\source\\repos\\IoT1CS\\IoT1CS\\Form1.cs",
+              "RelativeDocumentMoniker": "IoT1CS\\Form1.cs",
+              "ToolTip": "C:\\Users\\Walaki\\source\\repos\\IoT1CS\\IoT1CS\\Form1.cs [Design]",
+              "RelativeToolTip": "IoT1CS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:54:38.66Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

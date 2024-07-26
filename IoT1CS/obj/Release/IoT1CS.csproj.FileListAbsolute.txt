@@ -1,0 +1,17 @@
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\bin\Release\IoT1CS.exe.config
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\bin\Release\IoT1CS.exe.manifest
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\bin\Release\IoT1CS.application
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\bin\Release\IoT1CS.exe
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\bin\Release\IoT1CS.pdb
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\bin\Release\M2Mqtt.Net.dll
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\bin\Release\M2Mqtt.Net.pdb
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\obj\Release\IoT1CS.csproj.AssemblyReference.cache
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\obj\Release\IoT1CS.Form1.resources
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\obj\Release\IoT1CS.Properties.Resources.resources
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\obj\Release\IoT1CS.csproj.GenerateResource.cache
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\obj\Release\IoT1CS.csproj.CoreCompileInputs.cache
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\obj\Release\IoT1CS.exe.manifest
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\obj\Release\IoT1CS.application
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\obj\Release\IoT1CS.csproj.Up2Date
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\obj\Release\IoT1CS.exe
+C:\Users\Walaki\source\repos\IoT1CS\IoT1CS\obj\Release\IoT1CS.pdb
